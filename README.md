@@ -169,11 +169,9 @@ A comunicação entre o **frontend** e o **backend** ocorre por **eventos WebSoc
 ---
 
 ## 🤝 Desenvolvido por
-
-**Sofya Andrade** 
-**Matheus Ferrari Dos Santos** 
-Disciplina: *Programação Orientada a Eventos*  
-Professor: *Ademar*  
+| [**Sofya Andrade**](https://github.com/sofyaandrade) | [**Matheus Ferrari Dos Santos**](https://github.com/matheusferrarimf) |
+Disciplina: *Lingaugem de Programação e Paradigmas*  
+Professor: *Ademar Perfoll Junior*  
 Curso de *Sistemas de Informação — UNIDAVI*  
 
 ---
