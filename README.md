@@ -66,7 +66,7 @@ go mod tidy
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/reserva-quadras
+git clone https://github.com/sofyaandrade/Reserva-de-Quadras-Websocket.git
 cd reserva-quadras
 ```
 
