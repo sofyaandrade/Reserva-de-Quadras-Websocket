@@ -6,7 +6,7 @@ Projeto desenvolvido na disciplina de **Programação Orientada a Eventos** do c
 
 ## 📖 Descrição
 
-Este projeto simula um **sistema de reserva de quadras esportivas** com **comunicação em tempo real** entre o **frontend (React)** e o **backend (Go)**, utilizando **WebSockets**.
+Este projeto simula um **sistema de reserva de quadras esportivas** com **comunicação em tempo real** entre o **frontend (React)** e o ** (Go)**, utilizando **WebSockets**.
 
 O sistema permite que múltiplos usuários (ou abas) vejam as ações em tempo real — como criação, cancelamento e finalização de reservas — de forma sincronizada entre todos os clientes conectados.
 
@@ -52,14 +52,6 @@ No Linux/macOS:
 ```bash
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
-
-4️⃣ **Dentro da pasta do backend, inicialize o módulo Go**
-```bash
-cd backend
-go mod init reserva-quadras
-go mod tidy
-```
-
 ---
 
 ## 🚀 Execução do Projeto
@@ -74,7 +66,8 @@ cd reserva-quadras
 
 ### 2️⃣ Execute o Backend (Go)
 ```bash
-cd backend
+cd websocket
+go mod tidy
 go run main.go
 ```
 
@@ -142,7 +135,7 @@ http://localhost:5173
 
 ## 🔁 Comunicação em Tempo Real
 
-A comunicação entre o **frontend** e o **backend** ocorre por **eventos WebSocket**.
+A comunicação entre o **frontend** e o **** ocorre por **eventos WebSocket**.
 
 | Evento | Origem | Descrição |
 |--------|---------|-----------|
