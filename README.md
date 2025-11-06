@@ -59,7 +59,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 ### 1️⃣ Clone o repositório
 ```bash
 git clone https://github.com/sofyaandrade/Reserva-de-Quadras-Websocket.git
-cd reserva-quadras
+cd Reserva-de-Quadras-Websocke
 ```
 
 ---
